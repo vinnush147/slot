@@ -138,7 +138,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![out](https://github.com/vinnush147/slot/assets/147139234/7ef0f981-db9b-4419-b442-0e84ad8a1e79)
+![image](https://github.com/vinnush147/slot/assets/147139234/8b2252a6-94c7-494e-af1c-5b5e20b6adb2)
+
 
 
 
